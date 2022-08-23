@@ -1,0 +1,21 @@
+[submodule "wireframe-model"]
+	path = wireframe-model
+	url = https://github.com/Milvintsiss-42/wireframe-model
+[submodule "pipex"]
+	path = pipex
+	url = https://github.com/Milvintsiss-42/pipex
+[submodule "libft"]
+	path = libft
+	url = https://github.com/Milvintsiss-42/libft
+[submodule "printf"]
+	path = printf
+	url = https://github.com/Milvintsiss-42/printf
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/Milvintsiss-42/get_next_line
+[submodule "piscine42"]
+	path = piscine42
+	url = https://github.com/Milvintsiss-42/piscine42
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/Milvintsiss-42/push_swap
