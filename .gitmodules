@@ -26,3 +26,7 @@
 	path = push_swap
 	url = https://github.com/Milvintsiss-42/push_swap
 	master = master
+[submodule "philosophers"]
+	path = philosophers
+	url = git@github.com:Milvintsiss-42/philosophers.git
+	branch = master
